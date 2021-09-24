@@ -27,9 +27,31 @@ assert 'Django in browser title'
 
 # He is asked to upload a picture for his avatar - which he does and it gets emoji-ized
 
-# He sees a button to start his first workflow and clicks it
+# He sees a button to start his first content work flow and clicks it
 
-# He sees a description of what a workflow is  
+# He is asked to add the content type
+
+# He sees a description of what a content work flow is and is asked to add "next steps"
+# He see the first next step is "Not Started"
+# He adds a next steps 'Needs Feedback'
+
+# He see's 'Needs Feedback' is now added to the list"
+
+# He adds a next steps 'Needs Adjusted'
+
+# He see's 'Needs Adjusted' is now added to the list"
+
+# He adds a next steps 'Needs Reviewed'
+
+# He see's 'Needs Reviewed' is now added to the list"
+
+# He adds a next steps 'Review Complete'
+
+# He see's 'Needs Complete' is now added to the list"
+
+
+
+
 
 
 
